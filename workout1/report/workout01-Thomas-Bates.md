@@ -51,12 +51,18 @@ and Klay Thompson are referred to as the splash bros for the large
 amounts of threes that they take and make a game, but it isn’t apparent
 the pure volume of threes that they take until you take all their shots
 from a season and put them on a graph. As you can see below, it is
-pretty rediculous:
+pretty ridiculous:
 <img src="../images/gsw-shot-chart.png" width="80%" style="display: block; margin: auto;" />
 
 In addition to graphing the shots I also went ahead and create tables to
-calculate effective shooting
-percentage:
+calculate effective shooting percentage so you could really see the
+numbers that drive the team. The result shed light onto what role
+players on the team play and how the Splash Bros handle things from
+beyond the arc and with Daymond, Kevin Durant, and Andre Iguodala inside
+the paint this gives the Warriors tons of oppertunities to get offensive
+rebounds and get the ball in the hands of Steph and Klay. The numbers
+for effective shooting percentage are listed
+bellow:
 
 ## 2PT Effective Shooting % by Player
 
@@ -69,3 +75,44 @@ percentage:
 ## Effective Shooting % by Player
 
 <img src="../images/effective_perc.png" width="80%" style="display: block; margin: auto;" />
+
+As you can see the Warriors are obviously carried by the strength of the
+two splash bros and their effective 3pt shooting percentage, but what is
+unseen is the essential role that players like Kevin Durant and Andre
+Iguodala play in picking up points inside of the arc. Pair that up with
+Draymond Green’s deffesive player of the year like performance and you
+have one of the best teams to ever play the game. No wonder so many fans
+of the NBA are starting to get sick of the Warriors who could stop them?
+
+## Summary
+
+In summary, the Warriors are one of the best teams in the league for a
+reason and they have the numbers to show it. For a team that shoots so
+well effective shooting percentages paints a large part of the story;
+however, on top of this they play amazing deffense and get offensive
+rebounds when they count. Plus it’s pretty hard to keep up with a team
+that knocks down as many threes as they do. Something that Im sure fans
+notice but the numbers show even more is that the team comes out red hot
+from half time making threes at a higher percentage than the rest of the
+game. This allows them to take huge second half leads that are pretty
+hard to come back from. The change in effective 3pt shooting percentage
+can be seen
+here:
+
+<img src="../images/effective_3pt_3rd.png" width="80%" style="display: block; margin: auto;" />
+
+Overallthe Warriors are never a good team to see on your schedule and
+even the best deffensive teams have trouble shutting down the splash
+bros.
+
+## Conclusion
+
+With the Warriors being one of the best teams to ever play in the NBA it
+begs to ask the question “Does effective shooting percentage especially
+3pt shooting percentage make a good team?”. Sure there are many formulas
+to build a winning team, but this is the winningest team in NBA history
+so they must be doing something right. Maybe the key is to play the best
+players in the league to come to your team so you have 5 all stars in
+your starting line up which is way more than any other team in the
+league. But hey what do I know Im just here to look at the numbers and
+keep my opinion to myself.
