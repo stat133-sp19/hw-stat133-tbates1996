@@ -1,0 +1,53 @@
+---
+title: "Getting Started with binomial"
+author: "Thomas Bates"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Introduction to binomial}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, echo = FALSE, message = FALSE}
+knitr::opts_chunk$set(collapse = T, comment = "#>")
+library(binomial)
+```
+
+## Binomial
+
+The package `"binomial"` is a minimal implementation for representing a binomial distribution and it's computations. 
+
+## Creating a `binomial distribution`
+
+We can create a binomial distribution to do calculations with and plot using:
+
+```{r}
+bin_dist <- bin_distribution(trials = 5, prob = 0.5)
+plot(bin_dist)
+```
+
+We can also create a cumulative distribution that keeps track of the overall
+probability as the number of successes increases:
+
+```{r}
+bin_cum <- bin_cumulative(trials = 5, prob = 0.5)
+bin_cum
+plot(bin_cum)
+```
+
+
+## Creating a binomial random variable
+
+We can create a binomial random variable that we can then use to summarize a binomial random variable. 
+
+```{r}
+bin1 <- bin_variable(trials = 10, p = 0.3) 
+bin1
+```
+
+The `summary()` function gives you a nice table of binonmial random variable calculations:
+```{r}
+binsum1 <- summary(bin1)
+binsum1
+```
